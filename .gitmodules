@@ -1,0 +1,12 @@
+[submodule "packetdrill"]
+	path = packetdrill
+	url = git://github.com/doe753879/packetdrill.git
+[submodule "rtos-bridge"]
+	path = rtos-bridge
+	url = git://github.com/doe753879/rtos-bridge.git
+[submodule "packet-mutation"]
+	path = packet-mutation
+	url = git://github.com/doe753879/packet-mutation.git
+[submodule "packetdrill-script-generator"]
+	path = packetdrill-script-generator
+	url = git://github.com/doe753879/packetdrill-script-generator.git
