@@ -8,9 +8,9 @@ Our artifact includes the following (ordered by sections):
 
 | Item | Description | Corresponding content in the paper | Relation to prior work |
 |------|-------------|------------------------------------|------------------------|
-| Vulnerability analysis | Study of a dataset of CVE related to packet manipulation | Section V. ENS Vulnerabilities and testing | Show the characteristics of previous detected vulnerabilities on Network Stacks |
-| Source code of EmNetTest | Source code of the framework developed to systematically generate and run test | Section VI. EmNetTest: Design and implementation | Implementation of a framework capable to detect vulneabilities using systematic generation of tests |
-| Reports for discovered vulnerabilities | Packetdrill scripts that have triggered crashes on the Network stacks | Section VII (D). RQ4: Systematic Testing With EmNetTest | Known vulnerabilities and new vulnerabilities discovered for the network stacks|
+| [Vulnerability analysis](https://github.com/doe753879/EmNetTest/blob/master/) | Study of a dataset of CVE related to packet manipulation | Section V. ENS Vulnerabilities and testing | Show the characteristics of previous detected vulnerabilities on Network Stacks |
+| [Source code of EmNetTest](https://github.com/doe753879/packetdrill-script-generator/tree/88b2a7e7a1170ebee43bc76d41fa0edf05797d0b) | Source code of the framework developed to systematically generate and run test | Section VI. EmNetTest: Design and implementation | Implementation of a framework capable to detect vulneabilities using systematic generation of tests |
+| [Reports for discovered vulnerabilities](Vulnerabilities/Unknown/) | Packetdrill scripts that have triggered crashes on the Network stacks | Section VII (D). RQ4: Systematic Testing With EmNetTest | Known vulnerabilities and new vulnerabilities discovered for the network stacks|
 
 
 ## Vulnerability analysis
